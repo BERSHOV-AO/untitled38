@@ -33,5 +33,6 @@ public class Electrocar {
         System.out.println("Electrocar " + id + " is starting...");
         System.out.println("Hello");
         System.out.println("Hello");
+        System.out.println("Hello");
     }
 }
